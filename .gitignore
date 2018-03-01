@@ -1,0 +1,15 @@
+inputs/*
+logs/*
+outputs/*
+weights/*
+__pycache__/
+.vscode/
+.ipynb_checkpoints/
+*.pyc
+object_detection/*
+
+# exception to the rule
+!inputs/.gitkeep 
+!logs/.gitkeep 
+!outputs/.gitkeep 
+!weights/.gitkeep
